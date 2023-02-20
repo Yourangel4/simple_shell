@@ -7,7 +7,7 @@ int _strncmp(const char *s1, const char *s2, size_t n);
 
 /**
  * _strchr - Locates a character in a string.
- * @s: The string to be searched.
+ * @s: The string to be searched
  * @c: The character to be located.
  *
  * Return: If c is found - a pointer to the first occurence.
