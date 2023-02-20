@@ -283,8 +283,8 @@ $
 
 ## Authors :black_nib:
 
-* Hayatu Sanusi <[Hayatu](https://github.com/hamicch)>
-* Mwovi Kelvin <[ngusya](https://github.com/ngusya)>
+* moyinoluwa oluyeye
+* Mistura ojulari
 
 ## Acknowledgements :pray:
 
